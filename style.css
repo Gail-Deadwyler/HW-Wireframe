@@ -17,3 +17,9 @@ body {
     margin: 0 auto;   /* centers elements within the body */    
 }
 
+/* add header, nav and footer styling */
+header, nav, footer {
+    background: #ebebeb;
+    padding: 30px;
+    margin-top: 10px;
+}
