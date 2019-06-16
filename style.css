@@ -33,3 +33,11 @@ section {
     margin-top: 10px;
     margin-right: 5px;
 }
+
+/* add article styling */
+article {
+    color: #ebebeb;
+    background: #777;
+    margin-top: 15px;
+    padding: 30px;
+}
