@@ -1,0 +1,9 @@
+/* universal styling */
+* {
+    box-sizing: border-box;
+    
+    text-align: center;
+    /* margin:0; */
+    padding:0; 
+}
+
