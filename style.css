@@ -41,3 +41,8 @@ article {
     margin-top: 15px;
     padding: 30px;
 }
+
+/* add styling to the h1 tag nested within the article tag */
+article h1 {
+    margin-top: 5px;
+}
