@@ -23,3 +23,13 @@ header, nav, footer {
     padding: 30px;
     margin-top: 10px;
 }
+
+/* add section styling */
+section {
+    background: #ebebeb;
+    width: 495px;
+    padding: 8px;
+    float: left;
+    margin-top: 10px;
+    margin-right: 5px;
+}
